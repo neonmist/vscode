@@ -1,5 +1,5 @@
 {
-	"name": "lo-cafe",
+	"name": "neonmist",
 	"type": "dark",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
@@ -123,7 +123,7 @@
 		"name": "Comment Markup Link",
 		"scope": "comment markup.link",
 		"settings": {
-		  "foreground": "#999999"
+		  "foreground": "#4d4b68"
 		}
 	  },
 	  {
@@ -1706,7 +1706,7 @@
 		  "beginning.punctuation.definition.list.markdown.xi"
 		],
 		"settings": {
-		  "foreground": "#999999"
+		  "foreground": "#4d4b68"
 		}
 	  },
 	  {
@@ -1751,7 +1751,7 @@
 		  "punctuation.definition.tag.xi"
 		],
 		"settings": {
-		  "foreground": "#999999"
+		  "foreground": "#4d4b68"
 		}
 	  },
 	  {
@@ -1790,14 +1790,14 @@
 		"scope": "comment, punctuation.definition.comment",
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#999999"
+		  "foreground": "#4d4b68"
 		}
 	  },
 	  {
 		"name": "[VSCODE-CUSTOM] Markdown Quote",
 		"scope": "markup.quote.markdown",
 		"settings": {
-		  "foreground": "#999999"
+		  "foreground": "#4d4b68"
 		}
 	  },
 	  {
@@ -2002,7 +2002,7 @@
 	  "breadcrumb.foreground": "#d1d1e0",
 	  "breadcrumb.focusForeground": "#d1d1e0",
 	  "editorGroupHeader.border": "#d1d1e000",
-	  "editorGroupHeader.tabsBackground": "#333249",
+	  "editorGroupHeader.tabsBackground": "#1e1d2a",
 	  "tab.activeForeground": "#ffffff",
 	  "tab.border": "#3c3b56",
 	  "tab.activeBackground": "#252335",

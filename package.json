@@ -1,6 +1,6 @@
 {
-  "name": "lo-cafe",
-  "displayName": "lo-cafe",
+  "name": "neonmist",
+  "displayName": "neonmist",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "lo-cafe",
+        "label": "neonmist",
         "uiTheme": "vs-dark",
-        "path": "./themes/lo-cafe-color-theme.json"
+        "path": "./themes/neonmist.json"
       }
     ]
   }
